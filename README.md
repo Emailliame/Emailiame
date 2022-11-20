@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1508669.jpg&imgrefurl=https%3A%2F%2Fwallpaperaccess.com%2Fnotebook&tbnid=IImHPtZfWM0oJM&vet=12ahUKEwilgba7nbz7AhVEKbcAHXIBDTcQMygAegUIARDiAQ..i&docid=EmKT1IAgHRMdhM&w=2048&h=1152&q=notebook%20background%20hd&ved=2ahUKEwilgba7nbz7AhVEKbcAHXIBDTcQMygAegUIARDiAQ)]
+
 <h1 align="center">Hi 👋, I'm NANDINI CHOUDHARY</h1>
 <h3 align="center">PASSIONATE TO LEARN SOMETHING NEW EVERYDAY</h3>
 
