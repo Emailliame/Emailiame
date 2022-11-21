@@ -1,14 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm NANDINI CHOUDHARY</h1>
 <h3 align="center">PASSIONATE TO LEARN SOMETHING NEW EVERYDAY</h3>
 
-- 🔭 I’m currently working on Thesis Work **Classify False and True Positive from bugs identify by Static analyzers**
-
-- B.tech Project [Smart AI Project](https://github.com/Emailliame/Chatbot.git)
+- 🔭 I’m currently working on Thesis Work [Classify False and True Positive from bugs identify by Static analyzers](https://drive.google.com/file/d/1k6_ggLRBRyyOhoFxo_HstgIIaFcjJTv2/view?usp=sharing)
 
 - Previous Projects completed using **PHP , MySQL , MongoDB , JavaFrameWork , HTML , CSS**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FOC-uDBOGrJQBTpMdB91IDY205YBZHtL/view?usp=sharing](https://drive.google.com/file/d/1FOC-uDBOGrJQBTpMdB91IDY205YBZHtL/view?usp=sharing)
+- B.tech Project [Smart AI Project](https://github.com/Emailliame/Chatbot.git)
+
+- 📄 Know about my experiences [Nandini Resume](https://drive.google.com/file/d/1FOC-uDBOGrJQBTpMdB91IDY205YBZHtL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
